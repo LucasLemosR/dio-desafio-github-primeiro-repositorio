@@ -1,0 +1,2 @@
+Link para download do Git: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+O GitBash é um terminal extendido para orimizar o uso do Git.
